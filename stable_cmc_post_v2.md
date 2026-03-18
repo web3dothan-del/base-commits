@@ -3,7 +3,6 @@
 **The largest store of middle-class wealth in the world has never been available in DeFi. Stable is changing that — and the implications go far beyond another stablecoin.**
 
 -
-
 There is a number that should sit uncomfortably with everyone who has spent time in DeFi.
 
 $35 trillion.
