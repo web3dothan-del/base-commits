@@ -15,7 +15,7 @@ To access your home equity today, you need a bank's permission, an appraiser's s
 
 Stable built something better.
 
----
+--
 
 ## What Stable Is
 
