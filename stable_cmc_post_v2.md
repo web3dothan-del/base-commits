@@ -80,7 +80,7 @@ Large institutional investors — pension funds, insurance companies, mortgage R
 
 That yield has never been accessible to ordinary crypto users. SUSDX changes that — no minimum investment, no accreditation requirement, no fund manager with discretionary control. The mortgages are there, the interest is being paid, and SUSDX holders are on the receiving end.
 
----
+--
 
 ## The Homeowner Math
 
